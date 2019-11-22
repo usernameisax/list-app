@@ -102,7 +102,7 @@ export default class ScrollListClass extends Component {
     );
   }
 }
-// ESTILIZAÇÃO
+// ESTILIZAÇÃO DA PAGINA
 const styles = StyleSheet.create({
   container: {
    flex: 1,
